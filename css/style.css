@@ -1,0 +1,28 @@
+/*main style here*/
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.wrapper{
+    border:3px solid #eece1a;
+    padding: 10px;
+    background-color: aqua;
+}
+.header{
+  background-color: #444;
+  height:100px;
+  text-align: center; 
+}
+.main-nav{
+   background-color: dodgerblue;
+   height: 40px;
+}
+.content{
+   background-color:lightgray;
+   min-height:400px;
+   padding: 10px;
+}
+.footer{
+  background-color:#000;
+  height: 50px;
+}
